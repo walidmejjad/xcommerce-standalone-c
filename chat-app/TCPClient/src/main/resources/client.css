@@ -1,0 +1,13 @@
+.root {
+    -fx-font-family: "Segoe UI", sans-serif;
+}
+
+.label {
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+}
+
+.text-area {
+    -fx-control-inner-background: #0f172a;
+    -fx-text-fill: #e2e8f0;
+}
